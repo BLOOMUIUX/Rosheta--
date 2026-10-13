@@ -64,13 +64,13 @@ Research and UX Design
 
  📅 Project Plan (5 Weeks)
 
-| Week    | Activities |
-| Week 1 | Project discovery, problem definition, user research, and initial scope prioritization 
-| Week 2 | Market research, competitor analysis, and research synthesis 
-| Week 3  | User personas, empathy maps, information architecture, user journeys, and user flows 
-| Week 4 | Wireframes, visual direction, UI components, high-fidelity design, and interactive prototyping 
-| Week 5 | Usability testing, design refinements, final documentation, and presentation 
-
+| Week | Activities |
+| --- | --- |
+| Week 1 | Project discovery, problem definition, and user research |
+| Week 2 | Market research, competitor analysis, and research insights |
+| Week 3 | User personas, empathy maps, information architecture, and user flows |
+| Week 4 | Wireframes, UI design, and interactive prototyping |
+| Week 5 | Usability testing, design refinements, final documentation, and presentation |
 
 📁 Project Deliverables
 
