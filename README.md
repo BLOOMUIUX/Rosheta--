@@ -1,4 +1,4 @@
-💊 Rosheta — UI/UX Case Study
+💊 Rosheta- روشتة — UI/UX Case Study
 
 📎 Project Name
 
